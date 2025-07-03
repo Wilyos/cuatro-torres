@@ -1,14 +1,14 @@
 import { motion } from "framer-motion";
 
 const bannersH = [
-  "BANNER-1-H.png",
-  "BANNER-2-H.png",
-  "BANNER-3-H.png",
+  "banner-1-H.png",
+  "banner-2-H.png",
+  "banner-3-H.png",
 ];
 
 const bannersV = [
-  "BANNER-1-V.png",
-  "BANNER-2-V.png",
+  "banner-1-V.png",
+  "banner-2-V.png",
 ];
 
 const scrollToContacto = () => {
