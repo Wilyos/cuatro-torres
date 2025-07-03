@@ -13,7 +13,7 @@ const HeroSection = () => {
       </div>
       {/* Imagen solo en móvil */}
       <img
-        src="./src/assets/banner-ppl.png"
+        src="/assets/banner-ppl.png"
         alt="banner-ppl"
         className="block md:hidden absolute left-1/2 top-1/8 transform -translate-x-1/2 w-100 h-auto z-1"
         style={{ pointerEvents: 'none' }}
