@@ -1,0 +1,9 @@
+
+
+
+
+@media (max-width: 767px) {
+  .spline-watermark [style*="position: absolute"] {
+    display: none !important;
+  }
+}
