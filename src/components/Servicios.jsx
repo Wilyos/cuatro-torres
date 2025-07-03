@@ -8,7 +8,7 @@ const bannersH = [
 
 const bannersV = [
   "BANNER-1-V.png",
-  "BANNER-2-V .png",
+  "BANNER-2-V.png",
 ];
 
 const scrollToContacto = () => {
