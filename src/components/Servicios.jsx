@@ -39,7 +39,7 @@ const Servicios = () => (
             style={{ background: "none" }}
           >
             <img
-              src={`./src/assets/${img}`}
+              src={`/assets/${img}`}
               alt={`Banner H ${idx + 1}`}
               className="w-full max-w-4xl object-contain rounded transition-all duration-300"
               draggable={false}
@@ -64,7 +64,7 @@ const Servicios = () => (
             style={{ background: "none" }}
           >
             <img
-              src={`./src/assets/${img}`}
+              src={`/assets/${img}`}
               alt={`Banner V ${idx + 1}`}
               className="w-full max-w-xs object-contain transition-all duration-300 rounded"
               draggable={false}
