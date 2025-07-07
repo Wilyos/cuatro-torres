@@ -1,4 +1,4 @@
-import { FaPhoneAlt, FaInstagram, FaMapMarkerAlt } from "react-icons/fa";
+import { FaPhoneAlt, FaInstagram, FaMapMarkerAlt, FaWhatsapp } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";
 
 const Contacto = () => (
@@ -11,7 +11,13 @@ const Contacto = () => (
           <div className="flex items-center gap-4">
             <FaPhoneAlt className="text-yellow-500 text-2xl" />
             <span className="text-lg text-blue-900 dark:text-white font-semibold">
-              604 322 0830
+              604 322 0830 Ext 102
+            </span>
+          </div>
+          <div className="flex items-center gap-4">
+            <FaWhatsapp className="text-yellow-500 text-2xl" />
+            <span className="text-lg text-blue-900 dark:text-white font-semibold">
+              +57 320 265 6457
             </span>
           </div>
           <div className="flex items-center gap-4">
